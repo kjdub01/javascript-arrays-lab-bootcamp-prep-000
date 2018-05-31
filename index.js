@@ -15,7 +15,7 @@ function desructivelyRemoveLastKitten(name) {
   return Array
 }
 
-function destructivelyRemoveFirstKitten() {
+function destructivelyRemoveFirstKitten(name) {
   Array.shift()
   return Array
 }
