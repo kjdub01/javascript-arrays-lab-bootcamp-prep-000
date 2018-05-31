@@ -4,5 +4,3 @@ function destructivelyAppendKitten(name, "Ralph") {
   Array.push("Ralph")
   return Array
 }
-
-
